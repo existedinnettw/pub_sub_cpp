@@ -1,6 +1,10 @@
 
 build/
 settings.json
+# **/[$]*.*
+# [~][$]*
+**\$*
+*~
 
 # Prerequisites
 *.d
